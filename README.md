@@ -1,2 +1,2 @@
 # hello-world
-Just another repository
+Hello my name is Chris. This is for CS464
